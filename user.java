@@ -6,3 +6,10 @@ class user{
 	
 	String name = "ashokit";
 }
+
+
+// 102-JIRA story
+void m2(){
+	// logic
+	
+}
